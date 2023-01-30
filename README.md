@@ -1,1 +1,1 @@
-# GraphQL-Basics
+# GraphQL Basics
